@@ -7,7 +7,7 @@ from PIL import Image
 from io import BytesIO
 import requests
 from proglog import ProgressBarLogger
-from pytube import YouTube, Playlist
+from pytubefix import YouTube, Playlist
 import os
 from moviepy.audio.io.AudioFileClip import AudioFileClip
 from moviepy.video.io.VideoFileClip import VideoFileClip

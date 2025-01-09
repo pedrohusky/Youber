@@ -36,14 +36,12 @@ To use Youber, follow these steps:
   pip install requirements.txt
   ```
 
-2. Run Youber using Python:
+2. Run Youber using Pythonw:
 - ```bash
-  python main.py
+  pythonw.exe main.pyw
   ```
 
-3. Alternatively, you can execute the pre-built executable located in the `/dist/` directory.
-
-4. If you prefer, create your own executable using the `create_exe.py` file by running:
+3. If you prefer, create your own executable using the `create_exe.py` file by running:
 - ```bash
   python create_exe.py
   ```
@@ -52,7 +50,6 @@ To use Youber, follow these steps:
 
 ## To-Do List
 
-- Add quality selection for playlist downloads.
 - Implement a search function to search YouTube playlists and videos with keywords, effectively turning Youber into a YouTube search and downloader.
 
 Feel free to contribute and help improve Youber!
