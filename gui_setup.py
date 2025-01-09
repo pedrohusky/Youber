@@ -10,7 +10,7 @@ from tkinter import filedialog
 from PIL import Image
 import customtkinter
 import requests
-from pytube import YouTube
+from pytubefix import YouTube
 
 from downloader import YouTubeDownloader
 
